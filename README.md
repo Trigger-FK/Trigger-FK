@@ -15,7 +15,7 @@
 
 ## 👥 Activities
 - Maritime RobotX Challenge | 2023.04 - Present
-- RopoCup@Home | 2022.10 - 2024.03
+- RoboCup@Home | 2022.10 - 2024.03
 - RoboMaster | 2020.08 - 2023.03
 
 <!---
