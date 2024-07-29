@@ -4,19 +4,24 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Trigger-FK&theme=radical&show_icons=ture" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Trigger-FK&column=7)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Trigger-FK&column=7) -->
 
 ## 🔭 Whoami
 - Ph.D. Student at Kyushu Univ.
+- Interest: Control of Networked Systems and Robotics
 
 ## 📚 Major Field
-- Multi-Agent Systems Control (Control Theory)
+- Multi-Agent Systems Control
 - Sparse Optimization
+- Nonlinear Control
 
 ## 👥 Activities
-- Maritime RobotX Challenge | 2023.04 - Present
-- RoboCup@Home | 2022.10 - 2024.03
-- RoboMaster | 2020.08 - 2023.03
+- 2023.04 - Present: OUXT Polaris (Maritime RobotX Challenge)
+  - Drone software developer
+- 2022.10 - 2024.03: Hibikino-Musashi@Home (RoboCup@Home)
+  - Developer of Carry My Luggage (Human Tracking)
+- 2020.08 - 2023.03: FUKUOKA NIWAKA (RoboMaster)
+  - Developer of inverse pendulum robot & aerial robot 
 
 <!---
 Trigger-FK/Trigger-FK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
