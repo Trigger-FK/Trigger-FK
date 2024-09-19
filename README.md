@@ -1,8 +1,8 @@
 # Fumiya Matsuzaki
-<p align="center"> 
+<!-- <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trigger-FK&layout=compact&show_icons=true&theme=radical" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Trigger-FK&theme=radical&show_icons=ture" />
-</p>
+</p> -->
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Trigger-FK&column=7) -->
 
