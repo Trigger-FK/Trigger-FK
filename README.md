@@ -1,4 +1,3 @@
-# Fumiya Matsuzaki
 <!-- <p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trigger-FK&layout=compact&show_icons=true&theme=radical" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Trigger-FK&theme=radical&show_icons=ture" />
@@ -8,12 +7,14 @@
 
 ## 🔭 Whoami
 - Ph.D. Student at Kyushu Univ.
-- Interest: Control of Networked Systems and Robotics
+- Interest:
+  - Networked Systems Control
+  - Robot Control
 
 ## 📚 Major Field
-- Multi-Agent Systems Control
-- Sparse Optimization
+- Sampled-data Control
 - Nonlinear Control
+- Sparse Optimization
 
 ## 👥 Activities
 - 2023.04 - Present: OUXT Polaris (Maritime RobotX Challenge)
