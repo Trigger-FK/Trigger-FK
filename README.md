@@ -12,8 +12,7 @@
   - Robot Control
 
 ## 📚 Major Field
-- Sampled-data Control
-- Nonlinear Control
+- Distributed Control
 - Sparse Optimization
 
 ## 👥 Activities
